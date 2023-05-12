@@ -1,7 +1,16 @@
-# django-todo
+# Architecture Diagram
+
+<img width="1196" alt="image" src="https://github.com/sumitgupta7060/kpmg/assets/13946677/cf9a2402-081c-4ed8-bb25-98d951055210">
+
+
+
+# django-todo App
 A simple todo app built with django
 
 <img width="1276" alt="image" src="https://github.com/sumitgupta7060/kpmg/assets/13946677/75c8f834-42e1-4e35-98ee-9e569b110470">
+
+**Steps to run this locally: (Non automated steps)**
+
 
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
