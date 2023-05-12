@@ -1,1 +1,7 @@
+#####
+Get instance's metadata api:
 https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service?tabs=linux
+#####
+Djando todo-app public github:
+https://github.com/shreys7/django-todo
+#####

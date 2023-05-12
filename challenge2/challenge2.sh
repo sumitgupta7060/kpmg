@@ -1,11 +1,11 @@
 #!/bin/bash
-#############################################
-#Author: Sumit Gupta                        #
-#Email: sumit.gupta7060@gmail.com           #
-#This script will accept the server details #
-#of the server and prints and stores the    #
-#instance's metadata output in json format  #
-#############################################
+##############################################
+# Author: Sumit Gupta                        #
+# Email: sumit.gupta7060@gmail.com           #
+# This script will accept the server details #
+# of the server and prints and stores the    #
+# instance's metadata output in json format  #
+##############################################
 
 echo "Enter the hostname/FQDN/IP Adress of the Azure VM:\n"
 read value

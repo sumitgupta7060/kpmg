@@ -1,11 +1,11 @@
 #!/bin/bash
-############################################
-#Author: Sumit Gupta                       #
-#Email: sumit.gupta7060@gmail.com          #
-#This script will accept user input in the #
-#form of name and age, and will fetch the  #
-#output based on the key or searched value #
-############################################
+#############################################
+# Author: Sumit Gupta                       #
+# Email: sumit.gupta7060@gmail.com          #
+# This script will accept user input in the #
+# form of name and age, and will fetch the  #
+# output based on the key or searched value #
+#############################################
                                    
 echo "Enter how many object you want to input"
 read input
